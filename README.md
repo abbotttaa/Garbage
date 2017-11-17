@@ -1,1 +1,1 @@
-# Garbage
+# TrashCollector
